@@ -34,7 +34,7 @@ To identify trends and patterns in placement data and recommend strategies to im
 
 Below is an image of the Excel dashboard created for this analysis. It includes visualizations like bar charts, pie charts, and tables to highlight placement trends, salary distributions, and gender-specific data.  
 
-![Placement Data Dashboard](Excel Dashboard.PNG)
+![Placement Data Dashboard](Excel_dashboard.png)
 
 ---
 
